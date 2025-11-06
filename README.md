@@ -12,3 +12,8 @@ Written in C++
 - Wiring Diagram
 - Version 2.0 with rechargeable internal battery
 - Version 3.0 with smaller size and 2 hours of run time
+
+
+## Research:
+ - Based on this model: https://coloradotime.com/products/pace-clocks-for-training?hsLang=en
+ - Ideally preserve the scale ratios, but decrease size
