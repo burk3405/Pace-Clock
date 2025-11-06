@@ -17,3 +17,6 @@ Written in C++
 ## Research:
  - Based on this model: https://coloradotime.com/products/pace-clocks-for-training?hsLang=en
  - Ideally preserve the scale ratios, but decrease size
+  
+ - 10 inch tall LED's, with 13.5 inch tall height
+ - Need to figure out how to scale that down
