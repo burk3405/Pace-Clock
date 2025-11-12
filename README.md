@@ -1,17 +1,18 @@
 # Pace-Clock
-Pace Clock code for Arduino Nano
+Pace Clock code for Arduino Nano 5V
 Written in C++
 
 ## Parts Required:
 - Arduino Nano 5V
-- 4-digit 7-segment display with MAX7219 driver
-- 3×AA battery holder with JST PH connector
+- 4-digit 7-segment TM1637
+- Battery Back
+- Low dropout DC converter
 - External Square Rocker Switch (SPST)
 
 ## ToDo:
 - Wiring Diagram
 - Version 2.0 with rechargeable internal battery
-- Version 3.0 with smaller size and 2 hours of run time
+- Version 3.0 with larger and 2 hours of run time
 
 
 ## Research:
